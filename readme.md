@@ -1,5 +1,3 @@
-# My Portfolio
-This is my portfolio test
-
-# This a second title
-Thanks to Madness Labs for helping me get this set up
+# Overview
+The idea was to create a web app to browse games from the [Games Club](https://gamesclub.cafe/) and
+filter games by various categories. Unfortunately, the project hit some snags and this is the final resting state
